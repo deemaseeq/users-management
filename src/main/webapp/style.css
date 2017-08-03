@@ -1,0 +1,16 @@
+.header {
+    font: x-large/110% "Open Sans";
+}
+
+.groups-section {
+    position: fixed;
+}
+
+.users-section {
+    position: relative;
+    left: 33%;
+}
+
+.add-button {
+    width: 75%;
+}
